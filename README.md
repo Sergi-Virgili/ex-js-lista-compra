@@ -10,6 +10,10 @@ En este ejercicio, vamos a desarrollar una funcionalidad básica de una **lista 
 
 La lista ya estará previamente creada con algunos ítems por defecto, y tu tarea será completar la funcionalidad de **visualizar**, **crear** y **eliminar** elementos.
 
+Referencia:
+
+![Lista de la Compra](./readme-files/lista-compra-ref.gif)
+
 ## 🎯 **Objetivos de Aprendizaje**
 
 1. **Manejo de DOM**: Aprender a manipular el DOM dinámicamente para crear, eliminar y actualizar elementos de la página.
@@ -64,7 +68,3 @@ La lista ya estará previamente creada con algunos ítems por defecto, y tu tare
 
 - Repositorio de GitHub con el código del proyecto.
 - Página web desplegada en GitHub Pages con la funcionalidad completa.
-
-Imagen de referencia:
-
-![Lista de la Compra](./readme-files/lista-compra-ref.gif)
